@@ -40,7 +40,7 @@ pip install scapy
 
 ## Installation
 
-1. Clone or download this project Link :- https://github.com/Ghanshyam-Bind/Network_Packet_Analyzer.git
+1. Clone or download this project.    **Link** :- https://github.com/Ghanshyam-Bind/Network_Packet_Analyzer.git
 
 2. Navigate to the project folder
 
@@ -56,7 +56,7 @@ pip install scapy
 
 Run the script from the terminal:
 
-python packet_sniffer.py
+python task-5.py
 
 The program will start capturing packets and display information about each packet in the terminal.
 
